@@ -18,6 +18,15 @@ export function Posts() {
 
 const POSTS = [
   {
+    url: "https://www.instagram.com/reel/CezsR4KMdwc/",
+    img: "./IMG_5658.PNG",
+  },
+
+  {
+    url: "https://www.instagram.com/reel/Clz8iJ2ATSY/",
+    img: "./IMG_5656.PNG",
+  },
+  {
     url: "https://www.instagram.com/reel/Ctpv0ZQJU3i/",
     img: "./IMG_5635.PNG",
   },
@@ -38,13 +47,22 @@ const POSTS = [
     img: "./IMG_5640.PNG",
   },
   {
+    url: "https://www.instagram.com/reel/CjrG181JO0V/",
+    img: "./IMG_5636.PNG",
+  },
+  {
     url: "https://www.tiktok.com/t/ZT85jsNov/",
     img: "./IMG_5643.PNG",
+  },
+  {
+    url: "https://www.instagram.com/reel/CmK29nPvFq9/",
+    img: "./IMG_5655.PNG",
   },
   {
     url: "https://www.instagram.com/reel/CjeHXYQDl_N/",
     img: "./IMG_5637.PNG",
   },
+
   {
     url: "https://www.instagram.com/reel/CrhS2uIrOBJ/",
     img: "./IMG_5652.PNG",
